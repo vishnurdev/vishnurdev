@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vishnurdev.github.io"><img src="https://img.shields.io/badge/Portfolio-vishnurdev.github.io-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://vishnurdev.github.io"><img src="https://img.shields.io/badge/Portfolio-https://vishnuxdev.vercel.app/-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:vishnudevbizz@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_me-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://discord.gg/AsEy3tRUBx"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
