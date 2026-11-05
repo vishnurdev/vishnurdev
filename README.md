@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://vishnurdev.github.io">
+  <a href="https://vishnuxdev.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=I+build+Discord+bots+used+by+28%2C000%2B+people;AI+apps+%C2%B7+Web+tools+%C2%B7+Test+automation;A+Quality+Engineer+who+ships+tested+code;Open+to+freelance+projects+%E2%80%94+let's+talk!" alt="Typing intro">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://vishnurdev.github.io"><img src="https://img.shields.io/badge/Portfolio-https://vishnuxdev.vercel.app/-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://vishnuxdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vishnuxdev.vercel.app-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:vishnudevbizz@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_me-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://discord.gg/AsEy3tRUBx"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
@@ -38,7 +38,8 @@
       🌍 <b>Location:</b> India · works remotely<br><br>
       💬 <b>Languages:</b> English<br><br>
       🟢 <b>Status:</b> Open to freelance projects<br><br>
-      📫 <b>Reach me:</b> <a href="mailto:vishnudevbizz@gmail.com">vishnudevbizz@gmail.com</a>
+      📫 <b>Reach me:</b> <a href="mailto:vishnudevbizz@gmail.com">vishnudevbizz@gmail.com</a><br><br>
+      🖥️ <b>Portfolio:</b> <a href="https://vishnuxdev.vercel.app">vishnuxdev.vercel.app</a>
     </td>
   </tr>
 </table>
@@ -117,7 +118,6 @@
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Cloudflare AI](https://img.shields.io/badge/Cloudflare_AI-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-
 ### 📈 GitHub activity
 
 <p align="center">
@@ -139,5 +139,6 @@
 
 <p align="center">
   <b>Have a project in mind?</b> Discord bot, AI chatbot, web app or test automation, let's build it.<br><br>
+  <a href="https://vishnuxdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vishnuxdev.vercel.app-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:vishnudevbizz@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-vishnudevbizz@gmail.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project"></a>
 </p>
