@@ -92,8 +92,12 @@
 ### 📈 GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishnurdev&theme=tokyonight&hide_border=true&background=0A1020&ring=22D3EE&fire=3B82F6&currStreakLabel=22D3EE" alt="GitHub streak" width="49%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnurdev&bg_color=0A1020&color=8b97b0&line=22d3ee&point=3b82f6&area=true&area_color=2563eb&hide_border=true" alt="Activity graph" width="100%">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vishnurdev&show_icons=true&hide_border=true&bg_color=0A1020&title_color=22D3EE&icon_color=3B82F6&text_color=CBD5E1&ring_color=22D3EE&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" height="170">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vishnurdev&layout=compact&hide_border=true&bg_color=0A1020&title_color=22D3EE&text_color=CBD5E1&langs_count=6" alt="Top languages" height="170">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishnurdev&theme=tokyonight&hide_border=true&background=0A1020&ring=22D3EE&fire=3B82F6&currStreakLabel=22D3EE" alt="GitHub streak">
 </p>
 
 ### 🤝 How I work
