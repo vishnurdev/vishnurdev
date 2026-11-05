@@ -18,14 +18,30 @@
 
 ### 👨‍💻 About me
 
-```python
-class Vishnu:
-    role      = "Quality Engineer · Python & JavaScript Developer"
-    builds    = ["Discord bots", "AI apps", "Web tools", "Test automation"]
-    shipped   = {"Core X": "60+ servers, 28k+ users", "Merchant QR": "live UPI tool", "Zeeva": "AI chat app"}
-    mindset   = "If it isn't tested, it isn't done."
-    available = True  # open to freelance work
-```
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      I'm <b>Vishnu</b>, a <b>Quality Engineer</b> who builds software. I turn ideas and messy manual work into <b>fast, reliable, tested</b> tools.
+      <br><br>
+      🤖 Built <b>Core X</b>, a Discord bot used by <b>28,000+ people</b><br>
+      🧠 Create <b>AI apps</b> with Groq, Gemini and Cloudflare AI<br>
+      💳 Ship <b>web tools</b> businesses use daily, like Merchant QR<br>
+      ✅ Write <b>automated tests</b> with Playwright and pytest<br>
+      📊 Automate <b>Excel/CSV data validation</b> with Python
+      <br><br>
+      <i>"If it isn't tested, it isn't done."</i>
+    </td>
+    <td width="42%" valign="top">
+      <b>⚡ Quick facts</b><br><br>
+      🎯 <b>Focus:</b> Bots · AI · Web · QA<br><br>
+      🛠️ <b>Main stack:</b> Python, JavaScript, React<br><br>
+      🌍 <b>Location:</b> India · works remotely<br><br>
+      💬 <b>Languages:</b> English<br><br>
+      🟢 <b>Status:</b> Open to freelance projects<br><br>
+      📫 <b>Reach me:</b> <a href="mailto:vishnudevbizz@gmail.com">vishnudevbizz@gmail.com</a>
+    </td>
+  </tr>
+</table>
 
 ### 🚀 Featured work
 
